@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="525f966e-eb23-4ad6-bccb-bbaacafbf3e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Trials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/AbstractGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/GameStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/NumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/WordGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/WordRussianGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_3/Words.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lesson_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lesson_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +46,27 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2NBdJz4TesV6TZY0VCakNTWcKBj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/1/Desktop/homeWorkOOP/src/main/java/org/lesson_1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/1/Desktop/homeWorkOOP"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.lesson_3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\1\Desktop\homeWorkOOP\src\main\java\org\lesson_1" />
     </key>
