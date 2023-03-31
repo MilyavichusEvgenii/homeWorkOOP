@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="525f966e-eb23-4ad6-bccb-bbaacafbf3e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/Subtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_4/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/ActionForGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Study_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Study_Group_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/program/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/viev/Output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
