@@ -6,10 +6,10 @@ import java.util.Random;
 
 public class Study_Group_Service {
 
-    Random rnd;
-    String firstName;
-    String secondName;
-    List<Student> students;
+    private Random rnd;
+    private String firstName;
+    private String secondName;
+    private List<Student> students;
 
 
     public Teacher initTeacher(int id){

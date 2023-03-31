@@ -3,9 +3,9 @@ package org.lesson_5.model;
 import java.util.Objects;
 
 public abstract class User {
-    int id_group;
-    String firstName;
-    String secondName;
+    protected int id_group;
+    protected String firstName;
+    protected String secondName;
 
 
     public User(int id_group, String firstName, String secondName) {
