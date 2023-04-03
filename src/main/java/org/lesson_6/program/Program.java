@@ -1,6 +1,6 @@
-package org.lesson_5.program;
+package org.lesson_6.program;
 
-import org.lesson_5.controller.Controller;
+import org.lesson_6.controller.Controller;
 
 public class Program extends Controller{
     public static void main(String[] args) {
