@@ -1,0 +1,6 @@
+log: Первое число: Complex_Numb{4.0 + 6.0i}
+log: Второе число: Complex_Numb{7.0 + 5.0i}
+log: Результат: Complex_Numb{-3.0 + 1.0i}
+log: Первое число: Complex_Numb{7.0 + 9.0i}
+log: Второе число: Complex_Numb{5.0 + 3.0i}
+log: Результат: Complex_Numb{1.8235294117647058 + 0.7058823529411765i}

@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="525f966e-eb23-4ad6-bccb-bbaacafbf3e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_6/controller/ActionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_6/model/ActionForSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_6/model/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_6/viev/OutputService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/controller/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/controller/Get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/controller/GetSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/controller/Getter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/controller/Sign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/logger/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Complex_Numb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Math_Operate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Operate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/model/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/program/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/view/Out.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/view/OutInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/model/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lesson_5/program/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lesson_5/program/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
         <option value="Interface" />
       </list>
     </option>
@@ -47,11 +59,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/1/Desktop/homeWorkOOP/src/main/java/org"
+    "last_opened_file_path": "C:/Users/1/Desktop/homeWorkJava"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.lesson_7.model" />
       <recent name="org.lesson_3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
